@@ -1,1 +1,1 @@
-# Nh-m05_-t-i-1_X-y-d-ng-ng-d-ng-Qu-n-l-t-i-NCKH-c-a-sinh-vi-n-
+Nhom05_DeTai1_Xay dung ung dung quan ly de tai NCKH cua sinh vien
