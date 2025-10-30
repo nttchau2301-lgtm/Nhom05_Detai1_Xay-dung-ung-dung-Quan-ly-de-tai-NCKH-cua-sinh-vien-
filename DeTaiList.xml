@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TruongDH>
+	<TenTruong>Truong Dai Hoc Cong Thuong</TenTruong>
+	<DiaChi>140 Le Trong Tan</DiaChi>
+	<SDT>0123456789</SDT>
+	<DSDeTai>
+		<DeTai>
+			<MaSoDT>DT001</MaSoDT>
+			<TenDT>Nghien cuu ve ngon ngu lap trinh</TenDT>
+			<TruongNhom>Hoang Thuy Anh Dao</TruongNhom>
+			<GVHD>Dinh Thi Tam</GVHD>
+			<LinhVuc>LyThuyet</LinhVuc>
+			<TGBatDau>02/06/2025</TGBatDau>
+			<TGKetThuc>10/07/2025</TGKetThuc>
+			<ApDungTT>true</ApDungTT>
+		</DeTai>
+		<DeTai>
+			<MaSoDT>DT002</MaSoDT>
+			<TenDT>Phat hien tin gia tren mang xa hoi</TenDT>
+			<TruongNhom>Hoang Minh Anh</TruongNhom>
+			<GVHD>Nguyen Nhu Mai</GVHD>
+			<LinhVuc>LyThuyet</LinhVuc>
+			<TGBatDau>02/05/2025</TGBatDau>
+			<TGKetThuc>17/07/2025</TGKetThuc>
+			<ApDungTT>false</ApDungTT>
+		</DeTai>
+		<DeTai>
+			<MaSoDT>DT003</MaSoDT>
+			<TenDT>Nghien cuu thi truong</TenDT>
+			<TruongNhom>Nguyen Van Bach</TruongNhom>
+			<GVHD>Le Duc Hoang</GVHD>
+			<LinhVuc>KinhTe</LinhVuc>
+			<TGBatDau>01/05/2025</TGBatDau>
+			<TGKetThuc>05/11/2025</TGKetThuc>
+			<SoCau>120</SoCau>
+		</DeTai>
+		<DeTai>
+			<MaSoDT>DT004</MaSoDT>
+			<TenDT>Giai phap nang cao nang luc canh tranh</TenDT>
+			<TruongNhom>Tran Minh Bang</TruongNhom>
+			<GVHD>Le Thi Thu Thao</GVHD>
+			<LinhVuc>KinhTe</LinhVuc>
+			<TGBatDau>01/05/2025</TGBatDau>
+			<TGKetThuc>05/10/2025</TGKetThuc>
+			<SoCau>98</SoCau>
+		</DeTai>
+		<DeTai>
+			<MaSoDT>DT005</MaSoDT>
+			<TenDT>Ung dung mobile</TenDT>
+			<TruongNhom>Hoang Minh Hanh</TruongNhom>
+			<GVHD>Nguyen My Linh</GVHD>
+			<LinhVuc>CongNghe</LinhVuc>
+			<TGBatDau>01/04/2025</TGBatDau>
+			<TGKetThuc>02/08/2025</TGKetThuc>
+			<MoiTruong>mobile</MoiTruong>
+		</DeTai>
+		<DeTai>
+			<MaSoDT>DT006</MaSoDT>
+			<TenDT>Ung dung Blockchain</TenDT>
+			<TruongNhom>Tran Anh Thu</TruongNhom>
+			<GVHD>Pham Van Minh</GVHD>
+			<LinhVuc>CongNghe</LinhVuc>
+			<TGBatDau>01/05/2025</TGBatDau>
+			<TGKetThuc>02/11/2025</TGKetThuc>
+			<MoiTruong>Web</MoiTruong>
+		</DeTai>
+		<DeTai>
+			<MaSoDT>DT007</MaSoDT>
+			<TenDT>Ung dung tri tue nhan tao</TenDT>
+			<TruongNhom>Lam Van Phong</TruongNhom>
+			<GVHD>Tran Anh Nguyet</GVHD>
+			<LinhVuc>CongNghe</LinhVuc>
+			<TGBatDau>06/04/2025</TGBatDau>
+			<TGKetThuc>03/10/2025</TGKetThuc>
+			<MoiTruong>Window</MoiTruong>
+		</DeTai>
+	</DSDeTai>
+</TruongDH>
